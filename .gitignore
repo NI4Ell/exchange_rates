@@ -1,0 +1,5 @@
+/vadarod/bank/__pycache__/
+/.venv
+/vadarod/vadarod/__pycache__
+/vadarod/debug.log
+/vadarod/db.sqlite3
